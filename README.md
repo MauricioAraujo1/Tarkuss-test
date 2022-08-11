@@ -4,17 +4,17 @@
 <br>
 <br>
 <h1>Instalação<h1>
-<p>
- Para utilizar a aplicação é necessário criar um clone com o seguinte código:
 
- git clone "https://github.com/mauricioarj1/Tarkuss-test.git"
+<p>Para utilizar a aplicação é necessário criar um clone com o seguinte código:<p>
 
- Depois de ter clonado o projeto
+ <p>git clone "https://github.com/mauricioarj1/Tarkuss-test.git"<p>
 
-Se vc tiver o yarn instalado, abra o terminal do vs code e escreva:
-yarn start
+ <p>Depois de ter clonado o projeto<p>
 
-Esse comando é para iniciar a aplicação web!
+<p>Se vc tiver o yarn instalado, abra o terminal do vs code e escreva:<p>
+<p>yarn start<p>
+
+<p>Esse comando é para iniciar a aplicação web!<p>
 
 Caso contrário, para instalar o yarn execute o código:
 npm install --global yarn
