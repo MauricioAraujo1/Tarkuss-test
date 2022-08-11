@@ -24,7 +24,7 @@ npm install --global yarn
 <br>
 <h1>Rotas</h1>
 <p>
-Criei rotas de up e back utilizando react-route-dom
+Criei rotas de up e back utilizando react-route-dom, as arquivos index e style das paginas encontram-se na página Containers.
 </p>
 <p>Habilitei o routes nos botões de cadastro, login, e sair</p>
 <br>
