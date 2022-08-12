@@ -13,7 +13,8 @@ Depois de ter clonado o projeto<p>
 Se vc tiver o yarn instalado, abra o terminal do vs code e escreva:
 yarn start
 
-Esse comando é para iniciar a aplicação web!<p>
+Esse comando é para iniciar a aplicação web!
+</p>
 
 Caso contrário, para instalar o yarn execute o código:
 npm install --global yarn
