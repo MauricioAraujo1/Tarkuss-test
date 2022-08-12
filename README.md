@@ -4,8 +4,7 @@
 <br>
 <br>
 <h1>Instalação<h1>
-<p>
-Para utilizar a aplicação é necessário criar um clone com o seguinte código:
+    <p> Para utilizar a aplicação é necessário criar um clone com o seguinte código:</p>
 git clone "https://github.com/mauricioarj1/Tarkuss-test.git"
 
 Depois de ter clonado o projeto<p>
